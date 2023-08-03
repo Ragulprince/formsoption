@@ -1,0 +1,42 @@
+.main-time-bar {
+  height: 35px;
+  position: relative;
+  width: 414px;
+}
+
+.main-time-bar .element-PM {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  width: 53px;
+}
+
+.main-time-bar .vector {
+  height: 10px;
+  left: 363px;
+  position: absolute;
+  top: 15px;
+  width: 21px;
+}
+
+.main-time-bar .group {
+  height: 12px;
+  left: 333px;
+  position: absolute;
+  top: 13px;
+  width: 15px;
+}
+
+.main-time-bar .img {
+  height: 12px;
+  left: 301px;
+  position: absolute;
+  top: 13px;
+  width: 14px;
+}
